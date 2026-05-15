@@ -6,7 +6,7 @@ I love building technical systems in Unreal Engine and creating assets in Blende
 Tech Stack & Tools
 - **Engines:** Unreal Engine 4 & 5 (Blueprints, Gameplay Framework) 
 -**3D Art:** Blender (Modeling, Rigging, Texturing)
-- **Technical:** QA & Production Testing, API Integrations (OpenAI), Multiplayer Replication 
+- **Technical:** QA & Production Testing, API Integrations, Multiplayer Replication 
 - **Languages:** German (Native), English (Professional)
 
 🚀 What I'm working on
