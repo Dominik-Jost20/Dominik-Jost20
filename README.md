@@ -1,6 +1,6 @@
 # Hi, I'm Dominik! 👋
 
-I'm a **Game Design Student** at IU Internationale Hochschule [cite: 10][cite_start], currently based in **Karlsruhe**[cite: 3]. 
+I'm a **Game Design Student** at IU Internationale Hochschule, currently based in **Karlsruhe**[cite: 3]. 
 I love building technical systems in Unreal Engine and creating assets in Blender[cite: 8, 9].
 
 Tech Stack & Tools
