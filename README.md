@@ -14,4 +14,4 @@ Tech Stack & Tools
 - Mastering the **Blender to UE5** pipeline for game-ready assets
 - Completing advanced courses in **Blueprint Architecture**
 
-**How to reach me:** [LinkedIn](https://www.linkedin.com/in/dominik-jost-2a669826a) [cite: 6] | [cite_start][E-Mail](mailto:dominik-jost@gmail.com) [cite: 5]
+**How to reach me:** [LinkedIn](https://www.linkedin.com/in/dominik-jost-2a669826a) | [E-Mail](mailto:dominik-jost@gmail.com)
