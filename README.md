@@ -8,7 +8,7 @@ Tech Stack & Tools
 - **Technical:** QA & Production Testing, API Integrations, Multiplayer Replication (Basic)
 - **Languages:** German (Native), English (Professional)
 
-  What I'm working on
+What I'm working on
 - Refining my **Multiplayer Prototype** in UE4
 - Mastering the **Blender to UE5** pipeline for game-ready assets
 - Completing advanced courses in **Blueprint Architecture**
