@@ -3,7 +3,7 @@ I'm a **Game Design Student** at IU Internationale Hochschule, currently based i
 I love building technical systems in Unreal Engine and creating assets in Blender.
 
 Tech Stack & Tools:
-- **Engines & Scripting::** Unreal Engine 4 & 5 (Blueprint Scripting, Gameplay Framework)
+- **Engines & Scripting:** Unreal Engine 4 & 5 (Blueprint Scripting, Gameplay Framework)
 - **3D Art:** Blender (Modeling, Rigging, Texturing)
 - **Technical:** QA & Production Testing, API Integrations, Multiplayer Replication (Basic)
 - **Languages:** German (Native), English (Professional)
